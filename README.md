@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python
 - 📫 How to reach me on discord : notpearl
 - i go by any prounouns
-- ⚡ Fun fact: 
 
 <!---
 n0tpearl/n0tpearl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
